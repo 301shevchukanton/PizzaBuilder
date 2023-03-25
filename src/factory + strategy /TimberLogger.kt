@@ -1,6 +1,3 @@
-package com.strato.hidrive.logger
-
-import com.strato.hidrive.domain.logger.Logger
 import timber.log.Timber
 
 class TimberLogger constructor(tree: Timber.Tree) : Logger {

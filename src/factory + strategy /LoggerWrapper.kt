@@ -1,7 +1,4 @@
-package com.strato.hidrive.logger
 
-import com.strato.hidrive.domain.logger.Logger
-import com.strato.hidrive.domain.logger.LoggerUtil
 import javax.inject.Inject
 
 class LoggerWrapper @Inject constructor() : Logger {

@@ -1,4 +1,3 @@
-package com.strato.hidrive.logger
 
 import timber.log.Timber
 
